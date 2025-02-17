@@ -6,8 +6,10 @@ All the slides are in the slides folder.
 
 ## Folder structure
 
+```
 .
 ├── slide
 │   ├── PDF1.pdf
 │   ├── PDF2.pdf
 └── README.md
+```
