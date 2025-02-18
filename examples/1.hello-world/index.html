@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Web Components - Hello World</title>
+    </head>
+    <body>
+        <like-button color="red"></like-button> 
+
+        <script>
+            class LikeButton extends HTMLElement {
+                static get observedAttributes() {
+                    return ["color"];
+                }
+
+                constructor() {
+                    super();
+                    this.attachShadow({ mode: "open" });
+
+                    // Estado inicial
+                    this.count = 0;
+                    this.color = this.getAttribute("color") || "blue";
+                    this.onClick = this.getAttribute('gggg')
+                }
+
+                render() {
+                    // Crear el template del botón
+                    this.shadowRoot.innerHTML = /* html */ `
+                        <style>
+                            button {
+                                background-color: ${this.color};
+                                color: white;
+                                border: none;
+                                padding: 10px;
+                                border-radius: 5px;
+                                cursor: pointer;
+                                font-size: 16px;
+                            }
+                        </style>
+                        <button>❤️ 0</button>
+                    `;
+                }
+
+                attributeChangedCallback() {
+                    this.render();
+                }
+
+                connectedCallback() {
+                    this.button = this.shadowRoot.querySelector("button");
+                    this.button.addEventListener("click", () => this.onClick());
+                }
+
+                increment() {
+                    this.count++;
+                    this.button.textContent = `❤️ ${this.count}`;
+                }
+            }
+
+            // Registrar el componente
+            customElements.define("like-button", LikeButton);
+        </script>
+    </body>
+</html>
