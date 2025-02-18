@@ -6,7 +6,7 @@
         <title>Web Components - Hello World</title>
     </head>
     <body>
-        <like-button color="red"></like-button> 
+        <like-button color="green"></like-button> 
 
         <script>
             class LikeButton extends HTMLElement {
@@ -21,7 +21,6 @@
                     // Estado inicial
                     this.count = 0;
                     this.color = this.getAttribute("color") || "blue";
-                    this.onClick = this.getAttribute('gggg')
                 }
 
                 render() {
@@ -48,7 +47,7 @@
 
                 connectedCallback() {
                     this.button = this.shadowRoot.querySelector("button");
-                    this.button.addEventListener("click", () => this.onClick());
+                    this.button.addEventListener("click", () => this.increment());
                 }
 
                 increment() {
