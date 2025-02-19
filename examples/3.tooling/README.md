@@ -35,4 +35,4 @@ La estructura de carpetas para nuestros Web Components será:
 
 ## Git team work
 
-![Work as a team](https://www.linkedin.com/feed/update/urn:li:activity:7297547140006895617/)
+* [Work as a team](https://www.linkedin.com/feed/update/urn:li:activity:7297547140006895617/)
