@@ -32,3 +32,7 @@ La estructura de carpetas para nuestros Web Components será:
 2. Para arrancar el proyecto usaremos el comando `npm run dev`
 
 3. Tu proyecto se ha arrancado en la url: `http://localhost:6886`
+
+## Git team work
+
+![Work as a team](https://www.linkedin.com/feed/update/urn:li:activity:7297547140006895617/)
