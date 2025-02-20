@@ -19,17 +19,17 @@ class MiTarjeta extends HTMLElement {
     render() {
         this.shadowRoot.innerHTML = /* html */ `
             <style>
-                @import "/miTarjeta/miTarjeta.css";
+            @import "./src/components/miTarjeta/miTarjeta.css";
             </style>
             <div class="card">
-                <div class="card-header">
-                    <h2>${this.titulo}</h2>
-                </div>
-                <div class="card-body">
-                    <p id="contador">Contador: ${this.contador}</p>
-                    <button>Incrementar</button>
-                    <slot></slot>
-                </div>
+            <div class="card-header">
+                <h2>${this.titulo}</h2>
+            </div>
+            <div class="card-body">
+                <p id="contador">Contador: ${this.contador}</p>
+                <button>Incrementar</button>
+                <slot></slot>
+            </div>
             </div>
         `;
     }
