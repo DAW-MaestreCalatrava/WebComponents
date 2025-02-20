@@ -1,0 +1,15 @@
+{
+  "name": "first-web-component",
+  "version": "1.0.0",
+  "description": "Ejercicio de creación de un Web Component",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --open=./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karim",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

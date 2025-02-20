@@ -1,0 +1,12 @@
+{
+    "name": "ejercicio1",
+    "description": "mi tarjeta",
+    "authors": "CarlosPinaB",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "live-server . --port=1196"
+    },
+    "dependencies": {
+        "live-server": "^1.2.2"
+    }
+}
