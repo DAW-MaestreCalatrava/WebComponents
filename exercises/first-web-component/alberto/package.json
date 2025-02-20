@@ -1,0 +1,13 @@
+{
+  "name": "alberto",
+  "version": "1.0.0",
+  "description": "Carpeta con archivos de Alberto",
+  "scripts": {
+    "dev": "live-server . --port=1123"
+  },
+  "author": "Alberto",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}

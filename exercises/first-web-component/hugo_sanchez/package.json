@@ -1,0 +1,14 @@
+{
+  "name": "hugo_sanchez",
+  "version": "1.0.0",
+  "description": "Carpeta de mi componente mi-tarjeta",
+  "main": "main.js",
+  "scripts": {
+    "dev": "live-server . --port=6886"
+  },
+  "author": "Hugo Sanchez Ciudad",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}

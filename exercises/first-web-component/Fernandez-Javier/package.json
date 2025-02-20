@@ -1,0 +1,14 @@
+{
+  "name": "fernandez-javier",
+  "version": "1.0.0",
+  "description": "Este proyecto es un ejemplo de como poder organizar los Web Components en un proyecto más grande.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "live-server . --port=6886"
+  },
+  "author": "Javier Fernández Sevillano",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
