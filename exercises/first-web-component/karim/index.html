@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Web Component</title>
+    <script type="module" src="./components/mi-tarjeta/mi-tarjeta.js"></script>
+    <script type="module" src="./components/mi-sorpresa/mi-sorpresa.js"></script>
+</head>
+<body>
+    <h1>Ejercicio First Web Component</h1>
+    <h2>1. Component MiTarjeta</h2>
+    <p>Crea un Web Component llamado <code>&lt;mi-tarjeta&gt;</code> que muestre un mensaje personalizado. El componente debe:</p>
+    <ul>
+        <li>✅ Tener un atributo <code>titulo</code> para definir el título de la tarjeta.</li>
+        <li>✅ Incluir un estado interno <code>contador</code> que aumente cada vez que se haga clic en un botón.</li>
+        <li>✅ Usar un <code>slot</code> para que el usuario pueda insertar contenido personalizado dentro de la tarjeta.</li>
+    </ul>
+    <mi-tarjeta titulo="Mi Primera Tarjeta">
+        <p>Contenido personalizado dentro de la tarjeta.</p>
+    </mi-tarjeta>
+
+    <h2>2. Tu Propio Web Component</h2>
+    <p>Crea tu propio Web Component para sorprender a la clase de tus habilidades aprendidas.</p>
+    <mi-sorpresa></mi-sorpresa>
+</body>
+</html>
