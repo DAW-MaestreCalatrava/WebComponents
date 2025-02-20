@@ -6,7 +6,7 @@ Este proyecto contiene ejemplos de Web Components desarrollados por Benitez Jose
 
 La estructura de carpetas para nuestros Web Components es la siguiente:
 
-
+```
 .
 ├── cardRecipe
 │   ├── cardRecipe.js
@@ -17,7 +17,7 @@ La estructura de carpetas para nuestros Web Components es la siguiente:
 ├── index.html
 ├── main.js
 └── README.md
-
+```
 
 ## Descripción de los componentes
 
