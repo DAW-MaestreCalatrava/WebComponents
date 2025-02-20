@@ -1,0 +1,19 @@
+{
+  "name": "card-web-component",
+  "version": "1.0.0",
+  "description": "A simple card web component with a nested button web component inside",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/DAW-MaestreCalatrava/WebComponents"
+  },
+  "keywords": [
+    "web-components",
+    "javascript"
+  ],
+  "author": "Óscar Maganto Torres",
+  "license": "MIT"
+}

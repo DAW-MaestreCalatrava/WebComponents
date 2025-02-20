@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  background: #333;
+  padding: 10px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+}
+a:hover {
+  background: #555;
+  border-radius: 4px;
+}
