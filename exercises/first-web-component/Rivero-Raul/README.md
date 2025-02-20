@@ -10,4 +10,4 @@
 └── index.html
 ```
 # Contenidos creados
-- He creado el elemento <mi-tarjeta></mi-tarjeta>
+- He creado el elemento \<mi-tarjeta\>\</mi-tarjeta\>
