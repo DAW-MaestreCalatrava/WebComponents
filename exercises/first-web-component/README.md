@@ -17,9 +17,15 @@ Features:
 
 Create a Web Component called `<mi-tarjeta>` that meets the following requirements:
 
+<<<<<<< HEAD
 - **Attribute `titulo`**: Defines the title of the card.
 - **Internal state `contador`**: Increases each time a button is clicked.
 - **Slot**: Allows the user to insert custom content inside the card.
+=======
+* ✅ Tener un atributo titulo para definir el título de la tarjeta.
+* ✅ Incluir un estado interno contador que aumente cada vez que se haga clic en un botón.
+* ✅ Usar un slot para que el usuario pueda insertar contenido personalizado dentro de la tarjeta.
+>>>>>>> 3d6877e5ff990b41c8143a6f18140109b2b740ea
 
 ### Usage Example
 
