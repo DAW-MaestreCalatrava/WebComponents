@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border: 2px solid #333;
+    padding: 10px;
+    width: 150px;
+    border-radius: 10px;
+  }
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #incrementar{
+    background-color: rgb(184, 244, 184);
+  }
+  #decrementar{
+    background-color: rgb(244, 184, 184);
+  }

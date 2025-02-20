@@ -1,26 +1,16 @@
 # Organización de Web Components
 
-Este proyecto es un ejemplo de como poder organizar los Web Components en un proyecto más grande.
+Este proyecto es para una tarjeta que simula un carta coleccionable
 
 ## Estructura de carpetas
 
-La estructura de carpetas para nuestros Web Components será:
+La estructura de carpetas es:
 
 ```
 .
-├── components
-│   ├── my-component-1
-│   ├── ├── my-component-1.js
-│   ├── ├── my-component-1.css
-│   ├── ├── components
-│   ├── ├── ├── my-component-1-1
-│   ├── ├── ├── ├── my-component-1-1.js
-│   ├── ├── ├── ├── my-component-1-1.css
-│   ├── ├── └── my-component-1-n
-│   ├── my-component-2
-│   ├── ...
-│   └── my-component-n
-└── global.css
+├── Tarjeta
+│   ├── Tarjeta.css
+│   ├── Tarjeta.js
 └── main.js
 └── index.html
 ```
