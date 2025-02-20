@@ -1,3 +1,4 @@
+
 # Web Components - Benitez Jose Antonio
 
 Este proyecto contiene ejemplos de Web Components desarrollados por Benitez Jose Antonio.
@@ -8,15 +9,20 @@ La estructura de carpetas para nuestros Web Components es la siguiente:
 
 ```
 .
-├── cardRecipe
-│   ├── cardRecipe.js
-│   ├── cardRecipe.css
-├── miTarjeta
-│   ├── miTarjeta.js
-│   ├── miTarjeta.css
 ├── index.html
 ├── main.js
-└── README.md
+├── package.json
+├── package-lock.json
+├── README.md
+└── src
+    └── components
+        ├── index.js
+        ├── cardRecipe
+        │   ├── cardRecipe.js
+        │   ├── cardRecipe.css
+        └── miTarjeta
+            ├── miTarjeta.js
+            ├── miTarjeta.css
 ```
 
 ## Descripción de los componentes
