@@ -5,7 +5,7 @@ class CardRecipe extends HTMLElement {
         this.title = this.getAttribute('title') || 'Título';
         this.description = this.getAttribute('description') || 'Descripción';
         this.link = this.getAttribute('link') || '#';
-        this.img = this.getAttribute('img') || 'cardRecipe/img/receta1.jpg';
+        this.img = this.getAttribute('img') || './src/components/cardRecipe/img/receta1.jpg';
     }
 
     connectedCallback() {
@@ -15,7 +15,7 @@ class CardRecipe extends HTMLElement {
     render() {
         this.shadowRoot.innerHTML = /* html */ `
             <style>
-                @import "/cardRecipe/cardRecipe.css";
+                @import "./src/components/cardRecipe/cardRecipe.css";
             </style>
             <div class="receta-card">
                 <img class="receta-img" src="${this.img}" alt="Imagen de receta">

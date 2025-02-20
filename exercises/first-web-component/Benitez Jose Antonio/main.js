@@ -1,2 +1,1 @@
-import "/miTarjeta/miTarjeta.js";
-import "/cardRecipe/cardRecipe.js";
+import "/src/components/index.js";
