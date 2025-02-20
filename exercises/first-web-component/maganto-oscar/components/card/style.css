@@ -1,0 +1,51 @@
+div {
+    transition: all 250ms;
+
+    padding: 20px;
+    border-radius: 5px;
+    
+    background: linear-gradient(145deg, rgba(0, 0, 89, 0.8), rgba(0, 0, 139, 0.8));
+    background-clip: padding-box;
+    position: relative;
+    overflow: hidden;
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+    width: fit-content;
+
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+div::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.3);
+    pointer-events: none;
+    border-radius: 5px;
+    background: linear-gradient(145deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0));
+}
+
+h1 {
+    font-size: 1.4em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+div>span {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div>* {
+    margin: 10px 10px;
+}
