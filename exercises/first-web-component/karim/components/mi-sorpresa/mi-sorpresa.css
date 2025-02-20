@@ -1,0 +1,16 @@
+.sorpresa {
+  border: 2px solid #4CAF50;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+.mensaje {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
