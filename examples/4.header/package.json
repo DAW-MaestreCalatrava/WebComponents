@@ -1,0 +1,12 @@
+{
+    "name": "tooling",
+    "description": "tooling",
+    "authors": "acnagrellos",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "live-server . --port=5885"
+    },
+    "dependencies": {
+        "live-server": "^1.2.2"
+    }
+}
