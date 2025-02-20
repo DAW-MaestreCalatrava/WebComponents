@@ -1,1 +1,1 @@
-import "/mi-tarjeta/miTarjeta.js";
+import "/miTarjeta/miTarjeta.js";
