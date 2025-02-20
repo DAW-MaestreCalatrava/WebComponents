@@ -1,21 +1,28 @@
 # Organización de Web Components
 
-Este proyecto es para una tarjeta que simula un carta coleccionable
+Este proyecto es un ejemplo de como poder organizar los Web Components en un proyecto más grande.
 
 ## Estructura de carpetas
 
-La estructura de carpetas es:
+La estructura de carpetas de este proyecto es:
 
 ```
 .
-├── Tarjeta
-│   ├── Tarjeta.css
-│   ├── Tarjeta.js
-└── main.js
+├── miTarjeta
+│   ├── miTarjeta.css
+│   ├── miTarjeta.js
+├── node_modules
+│   ├── ...
+└── index.css
 └── index.html
+└── main.js
+└── package-lock.html
+└── package.html
+└── README.html
 ```
 
 ## Debugging
+Lo primero de todo:
 
 1. Es necesario instalar todas las dependencias del proyecto con `npm install`.
 

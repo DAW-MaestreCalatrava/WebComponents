@@ -1,0 +1,12 @@
+{
+    "name": "ejercicio2",
+    "description": "mi propio Web Component",
+    "authors": "CarlosPinaB",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "live-server . --port=1196"
+    },
+    "dependencies": {
+        "live-server": "^1.2.2"
+    }
+}
