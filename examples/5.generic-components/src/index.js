@@ -1,2 +1,2 @@
-import "./components/button-link/button-link.js";
+import "./components/button-cta/button-cta.js";
 import "./components/text/text.js";
