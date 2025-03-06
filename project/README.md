@@ -32,7 +32,7 @@ La presentación debe tener un máximo de 10 minutos de tiempo, más 5 minutos d
 
 # Rúbrica de la presentación
 
-# Rúbrica de Evaluación – Presentación de Proyecto Web Components  
+Rúbrica de Evaluación – Presentación de Proyecto Web Components  
 
 | Criterio | Excelente (10) | Notable (8) | Aceptable (6) | Insuficiente (4 o menos) |
 |----------|--------------|------------|------------|----------------|
@@ -46,3 +46,9 @@ La presentación debe tener un máximo de 10 minutos de tiempo, más 5 minutos d
 - **31 - 24** → Notable  
 - **23 - 16** → Aprobado  
 - **< 16** → Suspenso  
+
+# Encuesta
+
+Por último no os olvidéis de hacer la encuesta de la asignatura. Es totalmente anónima!
+
+![Encuesta](survey.png)
