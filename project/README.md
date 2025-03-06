@@ -29,3 +29,20 @@ También os dejo el vídeo que hemos visto en clase: [video Elevator Pitch](http
 # Tiempos en la presentación
 
 La presentación debe tener un máximo de 10 minutos de tiempo, más 5 minutos de preguntas.
+
+# Rúbrica de la presentación
+
+# Rúbrica de Evaluación – Presentación de Proyecto Web Components  
+
+| Criterio | Excelente (10) | Notable (8) | Aceptable (6) | Insuficiente (4 o menos) |
+|----------|--------------|------------|------------|----------------|
+| **Explicación de los componentes** | Explicación clara y detallada del propósito y funcionamiento de cada componente. Se justifica su uso y se presentan ejemplos prácticos. | Explicación comprensible con buena justificación, aunque con algunos aspectos que podrían detallarse mejor. | Explicación superficial o con carencias en la justificación del uso de los componentes. | Explicación confusa o incorrecta, sin justificar adecuadamente los componentes utilizados. |
+| **Diseño y funcionamiento de la landing** | La landing tiene un diseño atractivo y bien estructurado. Todos los elementos funcionan correctamente y se integran de forma coherente. | Buen diseño y funcionalidad, aunque con algunos detalles mejorables en la integración o apariencia. | Diseño básico o con problemas en la estructura. Algunos elementos no funcionan correctamente. | Diseño descuidado y problemas graves de funcionalidad. La landing no cumple su propósito. |
+| **Trabajo en equipo** | Se evidencia una excelente coordinación y distribución del trabajo. Todos los miembros participan activamente. | Buena organización del equipo, aunque con algunas desigualdades en la carga de trabajo. | Participación desigual o falta de comunicación en el equipo. | Falta de trabajo en equipo evidente. La presentación se basa en el esfuerzo de solo algunos miembros. |
+| **Venta de valor del producto** | Explicación convincente del valor del producto. Se destacan sus beneficios y posibles aplicaciones con ejemplos claros. | Buena argumentación sobre el valor del producto, aunque con margen de mejora en la persuasión o en los ejemplos. | Se menciona el valor del producto, pero de forma genérica o sin claridad en sus beneficios. | No se transmite el valor del producto o la presentación es poco convincente. |
+
+## Puntuación total  
+- **40 - 32** → Sobresaliente  
+- **31 - 24** → Notable  
+- **23 - 16** → Aprobado  
+- **< 16** → Suspenso  
