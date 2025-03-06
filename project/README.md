@@ -22,6 +22,10 @@ En esta parte, los integrantes del proyecto contarán lo que ha quedado por real
 
 Se realizará un pequeño elevator pitch donde se focalizará en como este proyecto puede ayudar al cliente a mejorar su negocio. Lo ideal sería crear una breve presentación de máximo unas 10 diapositivas.
 
+Podéis ver cómo hacer un buen elevator pitch en este link: [Elevator Pitch](https://www.anfix.com/blog/como-hacer-un-buen-elevator-pitch).
+
+También os dejo el vídeo que hemos visto en clase: [video Elevator Pitch](https://www.youtube.com/watch?v=ppTDpdsCRtU)
+
 # Tiempos en la presentación
 
 La presentación debe tener un máximo de 10 minutos de tiempo, más 5 minutos de preguntas.
