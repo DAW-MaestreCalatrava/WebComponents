@@ -20,7 +20,7 @@ En esta parte, los integrantes del proyecto contarán lo que ha quedado por real
 
 ## Puesta al valor al cliente de la landing
 
-Se realizará un pequeño elevator pitch donde se focalizará en como este proyecto puede ayudar al cliente a mejorar su negocio. Lo ideal sería crear una breve presentación de máximo unas 10 diapositivas.
+Se realizará un pequeño elevator pitch donde se focalizará en como este proyecto puede ayudar al cliente a mejorar su negocio.
 
 Podéis ver cómo hacer un buen elevator pitch en este link: [Elevator Pitch](https://www.anfix.com/blog/como-hacer-un-buen-elevator-pitch).
 
